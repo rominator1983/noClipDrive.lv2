@@ -1,4 +1,4 @@
-No Clip distortion
+No Clip Drive
 ===
 
 This [lv2 plugin](https://en.wikipedia.org/wiki/LV2) adds amplification/drive/distortion to the signal but does not introduce clipping allowing for more dynamics than comparable approaches.
